@@ -1,0 +1,25 @@
+body {
+  background: pink;
+}
+
+.link {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 48px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  padding: 20px;
+}
+.photo {
+  display: block;
+  margin: 0 auto;
+  height: 600px;
+}
